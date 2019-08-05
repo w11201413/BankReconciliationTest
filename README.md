@@ -3,7 +3,7 @@
 * 需求：写一个JAVA程序，采用 面向对象  和 多线程方式 解析银行流水（每一个线程解析一类流水），通过程序解析，最后生成一个解析结果文件  result.txt。
 
 # 数据源
-classpath:input/
+resources/input/
 
 # result.txt格式
 ```
