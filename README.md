@@ -2,6 +2,9 @@
 * 面试题情景: 每月会导出各个公司的各个银行流水放入BankState文件夹中.
 * 需求：写一个JAVA程序，采用 面向对象  和 多线程方式 解析银行流水（每一个线程解析一类流水），通过程序解析，最后生成一个解析结果文件  result.txt。
 
+# 程序入口
+/src/main/java/BankReconciliationTestMain
+
 # 数据源
 resources/input/
 
